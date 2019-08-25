@@ -24,7 +24,7 @@ and then execute
 cd utils/bbox
 python setup.py install
 ```
-It will generate a bbox.cp35-win_amd64.pyd and a nms.cp35-win_amd64.pyd in path build\lib.win-amd64-3.5\bbox.
+It will generate a bbox.cp35-win_amd64.pyd and a nms.cp35-win_amd64.pyd in path build\lib.win-amd64-3.5\bbox. you should copy this two files to current path.
 ***
 # demo
 - follow setup to build the library 
